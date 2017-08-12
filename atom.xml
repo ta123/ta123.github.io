@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-11T16:17:02.000Z</updated>
+  <updated>2017-08-12T07:23:14.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《轻松Scrum之旅-敏捷开发故事》有感</title>
+    <link href="http://yoursite.com/2017/08/12/new-article/"/>
+    <id>http://yoursite.com/2017/08/12/new-article/</id>
+    <published>2017-08-12T02:28:04.000Z</published>
+    <updated>2017-08-12T07:23:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>##1. 亡羊补牢为时不晚<br>当已经发现知识跟不上生产力时，就要赶紧充电。<br>老大说《时间的朋友》阐述了一个观点，人的思维是发散的，所以眼下的“无用知识”只不过缺少一个引爆点。人的认知是在不断积累的。</p>
+<p>##2. 敏捷管理<br>最近开始看《轻松Scrum之旅-敏捷开发故事》。上一次接触scrum还是在PMP培训的时候，当时就对敏捷管理很感兴趣，遗憾的是里面只是简单的介绍，而在实际项目中也采用的瀑布流，所以一直没有实战的机会。自然也谈不上对scrum的了解。</p>
+<p>###2.1 几个重点</p>
+<ol>
+<li>有明确的最高目标：发布产品；</li>
+<li>每个<code>Sprint</code>都能看到实际的交付成果。</li>
+<li>user story公式：作为&lt;某个角色&gt;，我可以&lt;做什么&gt;，以完成&lt;什么目的&gt;;</li>
+<li>版本待办事项<code>Sprint Backlog</code>，用户故事<code>User Story</code>，任务<code>task</code>；其中 User Story 的度量方式：Story Point（人/日），理想状态下，一个人一天能够完成的工作量；</li>
+</ol>
+<p>###2.2 递进关系<br><code>Sprint Backlog</code> 拆解成<code>User Story</code>，每个<code>User Story</code>拆解成<code>task</code>；<br>最后的task一定要细分到可以执行可以度量的；否则应该继续细分；</p>
+<p>###2.3 关于任务工时的看法<br>很多人认为最难的是任务工时估算是最难的地方；包括我之前也这么认为；<br>但是敏捷开发的思想在于监控和调整；<br>比如当发现燃尽图持续横盘时，就应该考虑是否是任务拆解不够，或者工时估算有误，或者是执行人主观问题；<br>从而对整体进度进行快速调整；<br>这应该是一个动态过程，所以不用一开始就强调准确性；<br>在这种执行到反馈到review的过程中，工时估算也就会越来越准确；</p>
+<p>###2.4 任务的状态<br><code>未完成</code>,<code>被阻塞</code>,<code>进行中</code>,<code>已完成</code>；<br>敏捷管理将task分为这四种状态；管理者能够清晰看到当前每个人的工作任务；</p>
+<p>作为敏捷管理软件，也应该围绕这个维度来进行展示和管理；</p>
+<p>##3. 结尾<br>书看了2/3，结合工作，自己还是有很多疑问；<br>比如story的Story Point和任务的工时怎么做对应，还是比较困惑。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##1. 亡羊补牢为时不晚&lt;br&gt;当已经发现知识跟不上生产力时，就要赶紧充电。&lt;br&gt;老大说《时间的朋友》阐述了一个观点，人的思维是发散的，所以眼下的“无用知识”只不过缺少一个引爆点。人的认知是在不断积累的。&lt;/p&gt;
+&lt;p&gt;##2. 敏捷管理&lt;br&gt;最近开始看《轻松Scru
+    
+    </summary>
+    
+      <category term="项目管理" scheme="http://yoursite.com/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="敏捷" scheme="http://yoursite.com/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
