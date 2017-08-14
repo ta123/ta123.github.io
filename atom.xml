@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-14T01:36:38.000Z</updated>
+  <updated>2017-08-14T11:57:08.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>产品经理与UI</title>
+    <link href="http://yoursite.com/2017/08/14/%E4%BA%A7%E5%93%81%E4%B8%8EUI/"/>
+    <id>http://yoursite.com/2017/08/14/产品与UI/</id>
+    <published>2017-08-14T11:39:52.000Z</published>
+    <updated>2017-08-14T11:57:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我真的有很多次问过自己，是不是我过于苛求了。<br>我还没有找到和UI高效相处的工作方式；<br>在我们公司，UI和我一起负责交互问题，一般情况下，除非我有非常好的想法，我很注重让UI发挥。</p>
+<p>目前存在最大的问题是：</p>
+<blockquote>
+<p>UI最终交付出来的总是漏东西；</p>
+</blockquote>
+<p>我为此也做了一些努力，比如我把所有要素都用草图的形式画在axure上，但是结果不是缺个按钮，就是缺少描述。</p>
+<p>下午竟然还多了个组件，在搜索框后面添加了一个加号，要不是我一个一个排查，这又得被开发撵着问，这个加号是干啥的。</p>
+<p>说实话，我内心是崩溃的。</p>
+<p>但是又找不到解决途径，打算跟她谈一谈，又不知道从何说起；</p>
+<p>我做了如下努力：</p>
+<ol>
+<li>跟她讲解的时候，采用用户故事的方式，让她理解这里的需求是什么。</li>
+<li>有新页面时，我先出Axure图，她来出UI和一些交互；</li>
+<li>交付后我审核时，凡是有问题的界面，我都会一图一描述一任务的建立在工具软件上。</li>
+<li>我直接上手改一部分；</li>
+</ol>
+<p>我认为我们还是沟通，我打算考虑考虑跟她好好谈谈，让她多发言，希望从她的角度来说说该如何改进。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我真的有很多次问过自己，是不是我过于苛求了。&lt;br&gt;我还没有找到和UI高效相处的工作方式；&lt;br&gt;在我们公司，UI和我一起负责交互问题，一般情况下，除非我有非常好的想法，我很注重让UI发挥。&lt;/p&gt;
+&lt;p&gt;目前存在最大的问题是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;UI
+    
+    </summary>
+    
+      <category term="产品经理" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+    
+      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
+    
+  </entry>
   
   <entry>
     <title>敏捷开发整体交付与局部交付</title>
