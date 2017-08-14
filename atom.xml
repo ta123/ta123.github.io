@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-12T08:45:55.000Z</updated>
+  <updated>2017-08-14T01:36:38.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>敏捷开发整体交付与局部交付</title>
+    <link href="http://yoursite.com/2017/08/14/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E6%95%B4%E4%BD%93%E4%BA%A4%E4%BB%98%E4%B8%8E%E5%B1%80%E9%83%A8%E4%BA%A4%E4%BB%98/"/>
+    <id>http://yoursite.com/2017/08/14/敏捷开发整体交付与局部交付/</id>
+    <published>2017-08-14T01:24:21.000Z</published>
+    <updated>2017-08-14T01:36:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>通勤路虽远，好在可以看看书。<br>敏捷开发是把一个整体的可交付产品，分拆为一个个可交付产品包。</p>
+<blockquote>
+<p>软件项目被划分为多个相互联系但也能独立运行的子项目；</p>
+</blockquote>
+<p>举个栗子，比如一个产品有任务管理，文档管理功能，那么第一次交付任务管理，第二次交付文档管理，第三次交付任务与文档的关联。</p>
+<p>再加上每个迭代的周期是1-4周，可以对上面进行二次甚至三次拆解；</p>
+<p>但是需要注意，在计划每个迭代时，最终目标都是有可以发布的产品。这就要求在每个迭代中都有产品设计，开发，测试一个完整的流程，保证产品发布的可靠性；</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;通勤路虽远，好在可以看看书。&lt;br&gt;敏捷开发是把一个整体的可交付产品，分拆为一个个可交付产品包。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;软件项目被划分为多个相互联系但也能独立运行的子项目；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;举个栗子，比如一个产品有任务管理，文档管
+    
+    </summary>
+    
+      <category term="项目管理" scheme="http://yoursite.com/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="敏捷" scheme="http://yoursite.com/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>《轻松Scrum之旅-敏捷开发故事》有感</title>
