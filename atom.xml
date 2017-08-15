@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-14T11:57:08.000Z</updated>
+  <updated>2017-08-15T14:31:47.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UI会谈结果</title>
+    <link href="http://yoursite.com/2017/08/15/new-article/"/>
+    <id>http://yoursite.com/2017/08/15/new-article/</id>
+    <published>2017-08-15T09:14:35.000Z</published>
+    <updated>2017-08-15T14:31:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>老歌越来越少了，版权限制很是苦恼；<br>下午跟UI就昨天的问题谈谈；<br>还是沟通的问题。<br>最终决定使用Flinto来做交互。不过对效果保持怀疑，可以先试试看。<br>正好趁着这个机会从下面几个角度跟她谈谈理想：</p>
+<ol>
+<li>透过现象看本质，对于形式上，一个可能只是一个图标，但是这个图标背后可能会牵扯很多逻辑。</li>
+<li>交付；交付是个流程，而不是一个动作。完成的工作，当交付给下一个人时，一定要确保对方是否接收，接收的效果如何，是否还有改进或错误需要更正的地方。</li>
+<li>产品与功能区别。不要随便加功能，尽量最小版本上线，聆听用户的声音。功能在小做好了就是一个产品，比如验证做好了就是极验验证，评论做好了就是微博，聊天做好了就是QQ等等。</li>
+<li>个人工作管理。忘事情谁都避免不了，但是放任这种情况不管就有问题。适当借助GTD如OMNIFOCUS或者协助类软件如easyPM等记录和规划，会好很多。如果团队都在用就更好了，别人能随时跟进状态；</li>
+<li>要理解业务，只有对业务理解了，才能正确的把握功能，从而制作正确的交互和UI；</li>
+<li>了解一些目标人群，30岁的人和50岁的人总是有很大不同的，虽然UI和UX都不用对用户研究的非常透彻，但是多少也要了解一些，对症下药才有可能匠心。</li>
+<li>认同这个产品，干一行爱一行，如果仅仅把眼下的工作当做工作，那这份工作的回报也仅仅就是一份工作。但是如果把眼下的工作当做自己的产品，就会变得负责起来，就像你会给你的手机买很多漂亮的手机套一样（这不等于all in）。</li>
+</ol>
+<p>这里没有展开写，只是从上面几个角度来谈谈感受。毕竟刚毕业的学生不可能一下子做到很好。只是希望她自己能快速成长吧，社会很残酷。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;老歌越来越少了，版权限制很是苦恼；&lt;br&gt;下午跟UI就昨天的问题谈谈；&lt;br&gt;还是沟通的问题。&lt;br&gt;最终决定使用Flinto来做交互。不过对效果保持怀疑，可以先试试看。&lt;br&gt;正好趁着这个机会从下面几个角度跟她谈谈理想：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;透过现象看本质，对于形式
+    
+    </summary>
+    
+      <category term="产品经理" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+    
+      <category term="UI" scheme="http://yoursite.com/tags/UI/"/>
+    
+  </entry>
   
   <entry>
     <title>产品经理与UI</title>
