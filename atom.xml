@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-19T10:18:52.000Z</updated>
+  <updated>2017-08-21T13:16:13.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>生不逢时和与时俱进</title>
+    <link href="http://yoursite.com/2017/08/21/new-article/"/>
+    <id>http://yoursite.com/2017/08/21/new-article/</id>
+    <published>2017-08-21T10:37:18.000Z</published>
+    <updated>2017-08-21T13:16:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="避免生不逢时"><a href="#避免生不逢时" class="headerlink" title="避免生不逢时"></a>避免生不逢时</h2><p>今天跟老大讨论了下前两天的观点。老大从下面两个角度来反驳：</p>
+<blockquote>
+<ol>
+<li>文档归档不正确，有些迭代会贯穿整个项目集合，就算归档了项目，这个文档也不能归档；</li>
+<li>之前tello曾经试过自由化的方案，国内用户骂声很厉害，这说明教育用户的成本过高；</li>
+<li>模块化的思路是个方向，但是模块化指的是完整功能的模块化，比如自定义字段模块，审核模块等，企业需要哪些模块可以加载哪些模块；</li>
+</ol>
+</blockquote>
+<p>回来找了下trello的新闻，没有找到。但是这个结论还是符合预期。<br>虽然当前社会接受新事物很快，但是要区分用户群体。<br>协作软件这种一旦用起来就必须团队内部普及的类型，学习成本过高，形式过于跳跃，碰到的阻碍会更大，“生不逢时”总是用于形容失败者。</p>
+<h2 id="如何与时俱进"><a href="#如何与时俱进" class="headerlink" title="如何与时俱进"></a>如何与时俱进</h2><p>没错，如你所想，所有的需求都是从用户中来，回到用户中去，太空洞，具体可以从以下几个地方细化。</p>
+<h3 id="打通功能"><a href="#打通功能" class="headerlink" title="打通功能"></a>打通功能</h3><p>这是我老大之前说过一个观点<br>唯物辩证法的观点：事物都是联系的。<br>既然接受不了自由，那我们的方向就调整成<code>让所有的关系具象出来</code>；</p>
+<blockquote>
+<p>比如A任务的产出是文档，则立刻能定位到该文档，甚至是这个任务完成时（归档时）对应的某个版本；</p>
+</blockquote>
+<p>是功能与功能之间的打通；</p>
+<h3 id="强化统计"><a href="#强化统计" class="headerlink" title="强化统计"></a>强化统计</h3><p>统计要分角色，不同的角色关注的点会有不同；<br>任务执行角色主要关注“我”相关的任务，包括进度上与我关联的任务，例如某人完成后我才能开始；<br>管理角色主要关注项目进度，顺利还是阻塞，以及成员的负载情况。</p>
+<p>所以统计也要从这两个角色入手，有针对性的设计；</p>
+<h3 id="强化搜索"><a href="#强化搜索" class="headerlink" title="强化搜索"></a>强化搜索</h3><p>全最重要，哪怕不能提供一个集中的搜索，也要提供各个区块的搜索入口。</p>
+<h3 id="定位清晰"><a href="#定位清晰" class="headerlink" title="定位清晰"></a>定位清晰</h3><p>个人认为，软件最怕大而全，想凭一个吃遍一个行业。这个时代早已过去，现在唯有不断的精细化目标用户，纵深发展，才能在这个早已没有死角的竞争中突围。</p>
+<h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>文中太多地方都没有细化，在日后的工作中，会不断丰富案例，做好自己的原始积累。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;避免生不逢时&quot;&gt;&lt;a href=&quot;#避免生不逢时&quot; class=&quot;headerlink&quot; title=&quot;避免生不逢时&quot;&gt;&lt;/a&gt;避免生不逢时&lt;/h2&gt;&lt;p&gt;今天跟老大讨论了下前两天的观点。老大从下面两个角度来反驳：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;l
+    
+    </summary>
+    
+      <category term="产品经理" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+    
+      <category term="项目管理" scheme="http://yoursite.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>项目管理方法与软件-好友带来的思考</title>
     <link href="http://yoursite.com/2017/08/19/new-article/"/>
     <id>http://yoursite.com/2017/08/19/new-article/</id>
     <published>2017-08-19T02:11:50.000Z</published>
-    <updated>2017-08-19T10:18:52.000Z</updated>
+    <updated>2017-08-19T10:43:49.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="好友的误解"><a href="#好友的误解" class="headerlink" title="好友的误解"></a>好友的误解</h2><p>昨天文章发给好友，他说写的不错，但是不认同。</p>
 <blockquote>
