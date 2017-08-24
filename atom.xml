@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-24T15:06:58.000Z</updated>
+  <updated>2017-08-24T15:08:36.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2017/08/24/new-article/"/>
     <id>http://yoursite.com/2017/08/24/new-article/</id>
     <published>2017-08-24T14:42:12.000Z</published>
-    <updated>2017-08-24T15:06:58.000Z</updated>
+    <updated>2017-08-24T15:08:36.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="零碎的积累"><a href="#零碎的积累" class="headerlink" title="零碎的积累"></a>零碎的积累</h1><h2 id="1-如果要限制层级，比如子目录只限制三级，两种方案："><a href="#1-如果要限制层级，比如子目录只限制三级，两种方案：" class="headerlink" title="1. 如果要限制层级，比如子目录只限制三级，两种方案："></a>1. 如果要限制层级，比如子目录只限制三级，两种方案：</h2><p>在数据结构设计时，需要考虑如何向上查层级；<br>前端做限制；</p>
+    <content type="html"><![CDATA[<h2 id="1-如果要限制层级，比如子目录只限制三级，两种方案："><a href="#1-如果要限制层级，比如子目录只限制三级，两种方案：" class="headerlink" title="1. 如果要限制层级，比如子目录只限制三级，两种方案："></a>1. 如果要限制层级，比如子目录只限制三级，两种方案：</h2><p>在数据结构设计时，需要考虑如何向上查层级；<br>前端做限制；</p>
 <h2 id="2-一个动作牵扯到的其它动作"><a href="#2-一个动作牵扯到的其它动作" class="headerlink" title="2. 一个动作牵扯到的其它动作"></a>2. 一个动作牵扯到的其它动作</h2><p>比如把一个任务勾选完成，牵扯到的功能有，项目的统计变化，面板的统计变化，列的统计变化等等;<br>这时候后端处理这些数据有限，前端处理会很负责；<br>如果放前端，需要后端处理一遍，前端也会处理一遍，效率很低；</p>
 <h2 id="3-产品设计与开发后的确认"><a href="#3-产品设计与开发后的确认" class="headerlink" title="3. 产品设计与开发后的确认"></a>3. 产品设计与开发后的确认</h2><p>栗子1：<br>在产品设计中有个<code>最近更新</code>的功能，设计时目的是有内容更新或新创建都会按照时间倒序显示到这里。<br>但是开发后是不是这样的，需要测试，实测证明，更新显示非常不稳定。</p>
 <h2 id="4-已删除与恢复之间的关联"><a href="#4-已删除与恢复之间的关联" class="headerlink" title="4. 已删除与恢复之间的关联"></a>4. 已删除与恢复之间的关联</h2><h3 id="4-1-之前的逻辑"><a href="#4-1-之前的逻辑" class="headerlink" title="4.1 之前的逻辑"></a>4.1 之前的逻辑</h3><p>删除看板列<br>删除看板列时，任务逻辑删除放入回收站中<br>看板只剩下一个看板列时，不允许删除，<br>删除看板列时，如果回收站中存在有该看板列下的任务，则这些任务指定到看板的第一列中（如果删除的是第一列看板列，那么这些任务指定到剩余的看板列的第一列中)</p>
@@ -67,7 +67,7 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;零碎的积累&quot;&gt;&lt;a href=&quot;#零碎的积累&quot; class=&quot;headerlink&quot; title=&quot;零碎的积累&quot;&gt;&lt;/a&gt;零碎的积累&lt;/h1&gt;&lt;h2 id=&quot;1-如果要限制层级，比如子目录只限制三级，两种方案：&quot;&gt;&lt;a href=&quot;#1-如果要限制层级，比如子目录
+      &lt;h2 id=&quot;1-如果要限制层级，比如子目录只限制三级，两种方案：&quot;&gt;&lt;a href=&quot;#1-如果要限制层级，比如子目录只限制三级，两种方案：&quot; class=&quot;headerlink&quot; title=&quot;1. 如果要限制层级，比如子目录只限制三级，两种方案：&quot;&gt;&lt;/a&gt;1. 如果要限
     
     </summary>
     
